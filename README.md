@@ -87,8 +87,13 @@ this will place all build files in /dist folder at root of the project. Copy all
 * for editing, different input types can be used based on column types. e.g select, dates, textarea
 * paging could be added
 
-### How it would be used
-best approach would be to make it as vue plugin. Now it has to be imported where its needed
+### favorite modern Javascript feature
+*Template Literals*
+no need to concat strings, write in single or multiple lines
+
+### favorite third-party Vue.js library
+*axios*
+almost used in every project.
 
 ### Learn any new css property
 `box-sizing: border-box;` width you set is the width you get  
