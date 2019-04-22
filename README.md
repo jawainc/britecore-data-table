@@ -89,10 +89,12 @@ this will place all build files in /dist folder at root of the project. Copy all
 
 ### favorite modern Javascript feature
 *Template Literals*
+
 no need to concat strings, write in single or multiple lines
 
 ### favorite third-party Vue.js library
 *axios*
+
 almost used in every project.
 
 ### Learn any new css property
