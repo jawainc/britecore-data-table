@@ -1,5 +1,3 @@
-# brite-core
-
 ## How to use data table component ?
 import component in vue file
 ```
