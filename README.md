@@ -79,23 +79,3 @@ npm run test:unit
 npm run build
 ```
 this will place all build files in /dist folder at root of the project. Copy all files and folders to deployment server. index.html file is included so accessing server will run the project in browser.
-
-### Time Spent
-* 24 hours
-
-### Improvements
-* for editing, different input types can be used based on column types. e.g select, dates, textarea
-* paging could be added
-
-### favorite modern Javascript feature
-*Template Literals*
-
-no need to concat strings, write in single or multiple lines
-
-### favorite third-party Vue.js library
-*axios*
-
-almost used in every project.
-
-### Learn any new css property
-`box-sizing: border-box;` width you set is the width you get  
